@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090932682926",
+    "project_id": "mimosa-epicmakers",
+    "storage_bucket": "mimosa-epicmakers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090932682926:android:8bcdfb9853c8038a9c7d3f",
+        "android_client_info": {
+          "package_name": "com.mimosa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090932682926-pm5q5v2hj2k9dpt3e6rsp2oh5pbl968l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYVIZNMqdEjIl9Y2C47pjS1rykz173Rdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090932682926-pm5q5v2hj2k9dpt3e6rsp2oh5pbl968l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
